@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Petals", "flowey", [146, 113, 253]],
+		["Fallen", "chara", [146, 113, 253]],
+		["Tenacity", "chara", [146, 113, 253]]
+	],
+
+	"difficulties": "Hard",
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "VS Chara 2.0",
+	"weekBefore": "week7",
+	"weekName": "Chara Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

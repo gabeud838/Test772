@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Megalo-Strike-Back", "chara", [146, 113, 253]]
+	],
+
+	"difficulties": "Hard",
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "VS Chara 2.0",
+	"weekBefore": "week7",
+	"weekName": "Chara Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
