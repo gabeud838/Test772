@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				65
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				73
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-1
+			],
+			"anim": "saveidle",
+			"fps": 24,
+			"name": "saveidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1342,
+				-10
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-1
+			],
+			"anim": "save",
+			"fps": 24,
+			"name": "save0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stare",
+			"indices": [],
+			"name": "stare0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				21,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-stare",
+			"loop": true,
+			"name": "stareidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chara",
+	"position": [
+		-35,
+		310
+	],
+	"healthicon": "chara",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-1225,
+		17
+	],
+	"sing_duration": 6,
+	"scale": 1
+}
