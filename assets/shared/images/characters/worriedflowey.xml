@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="worriedflowey.png">
+<SubTexture name="GFDancingBeat0000" x="0" y="0" width="138" height="134" frameX="0" frameY="0" frameWidth="138" frameHeight="134" />
+<SubTexture name="GFDancingBeat0001" x="138" y="0" width="138" height="132" frameX="0" frameY="-2" frameWidth="138" frameHeight="134" />
+<SubTexture name="GFDancingBeat0002" x="138" y="0" width="138" height="132" frameX="0" frameY="-2" frameWidth="138" frameHeight="134" />
+</TextureAtlas>
