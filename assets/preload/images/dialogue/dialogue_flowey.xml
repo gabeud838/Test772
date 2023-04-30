@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogue flowey.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floweyannoyed0000" x="2" y="256" width="236" height="252"/>
+	<SubTexture name="floweyannoyed0001" x="2" y="256" width="236" height="252"/>
+	<SubTexture name="floweyannoyed0002" x="2" y="256" width="236" height="252"/>
+	<SubTexture name="floweyannoyed_talk0000" x="2" y="256" width="236" height="252"/>
+	<SubTexture name="floweyannoyed_talk0001" x="2" y="256" width="236" height="252"/>
+	<SubTexture name="floweyannoyed_talk0002" x="2" y="256" width="236" height="252"/>
+	<SubTexture name="floweyannoyed_talk0003" x="240" y="256" width="236" height="252"/>
+	<SubTexture name="floweyannoyed_talk0004" x="240" y="256" width="236" height="252"/>
+	<SubTexture name="floweyannoyed_talk0005" x="240" y="256" width="236" height="252"/>
+	<SubTexture name="floweyevil0000" x="478" y="256" width="236" height="252"/>
+	<SubTexture name="floweyevil0001" x="478" y="256" width="236" height="252"/>
+	<SubTexture name="floweyevil0002" x="478" y="256" width="236" height="252"/>
+	<SubTexture name="floweyevil_talk0000" x="478" y="256" width="236" height="252"/>
+	<SubTexture name="floweyevil_talk0001" x="478" y="256" width="236" height="252"/>
+	<SubTexture name="floweyevil_talk0002" x="478" y="256" width="236" height="252"/>
+	<SubTexture name="floweyevil_talk0003" x="716" y="256" width="236" height="252"/>
+	<SubTexture name="floweyevil_talk0004" x="716" y="256" width="236" height="252"/>
+	<SubTexture name="floweyevil_talk0005" x="716" y="256" width="236" height="252"/>
+	<SubTexture name="floweynormal0000" x="2" y="2" width="236" height="252"/>
+	<SubTexture name="floweynormal0001" x="2" y="2" width="236" height="252"/>
+	<SubTexture name="floweynormal0002" x="2" y="2" width="236" height="252"/>
+	<SubTexture name="floweynormal_talk0000" x="2" y="2" width="236" height="252"/>
+	<SubTexture name="floweynormal_talk0001" x="2" y="2" width="236" height="252"/>
+	<SubTexture name="floweynormal_talk0002" x="2" y="2" width="236" height="252"/>
+	<SubTexture name="floweynormal_talk0003" x="240" y="2" width="236" height="252"/>
+	<SubTexture name="floweynormal_talk0004" x="240" y="2" width="236" height="252"/>
+	<SubTexture name="floweynormal_talk0005" x="240" y="2" width="236" height="252"/>
+	<SubTexture name="floweysmug0000" x="478" y="2" width="236" height="252"/>
+	<SubTexture name="floweysmug0001" x="478" y="2" width="236" height="252"/>
+	<SubTexture name="floweysmug0002" x="478" y="2" width="236" height="252"/>
+	<SubTexture name="floweysmug_talk0000" x="478" y="2" width="236" height="252"/>
+	<SubTexture name="floweysmug_talk0001" x="478" y="2" width="236" height="252"/>
+	<SubTexture name="floweysmug_talk0002" x="478" y="2" width="236" height="252"/>
+	<SubTexture name="floweysmug_talk0003" x="716" y="2" width="236" height="252"/>
+	<SubTexture name="floweysmug_talk0004" x="716" y="2" width="236" height="252"/>
+	<SubTexture name="floweysmug_talk0005" x="716" y="2" width="236" height="252"/>
+	<SubTexture name="floweyveryevil0000" x="2" y="510" width="236" height="252"/>
+	<SubTexture name="floweyveryevil0001" x="2" y="510" width="236" height="252"/>
+	<SubTexture name="floweyveryevil0002" x="2" y="510" width="236" height="252"/>
+	<SubTexture name="floweyveryevil_talk0000" x="2" y="510" width="236" height="252"/>
+	<SubTexture name="floweyveryevil_talk0001" x="2" y="510" width="236" height="252"/>
+	<SubTexture name="floweyveryevil_talk0002" x="2" y="510" width="236" height="252"/>
+	<SubTexture name="floweyveryevil_talk0003" x="240" y="510" width="236" height="252"/>
+	<SubTexture name="floweyveryevil_talk0004" x="240" y="510" width="236" height="252"/>
+	<SubTexture name="floweyveryevil_talk0005" x="240" y="510" width="236" height="252"/>
+</TextureAtlas>
